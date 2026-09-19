@@ -1,8 +1,8 @@
 class Rsm < Formula
   desc "Reference Standard M - Implementation of ANSI/MDC M X11.1-1995"
   homepage "https://gitlab.com/Reference-Standard-M/rsm"
-  url "https://gitlab.com/Reference-Standard-M/rsm/-/archive/v1.82.4/rsm-v1.82.4.tar.gz"
-  sha256 "81c2a866624f75921d6977dfdc6d0f0ab69f82a975020779a88847dd043a7a38" # Run: curl -sL <url> | shasum -a 256
+  url "https://gitlab.com/Reference-Standard-M/rsm/-/archive/v1.83.1/rsm-v1.83.1.tar.gz"
+  sha256 "8ca5c3376a38909f28cc5e64dcab7987f563ffaf767567ffd911e1c6c2399e2b" # Run: curl -sL <url> | shasum -a 256
   license "AGPL-3.0-or-later"
   
   head "https://gitlab.com/Reference-Standard-M/rsm.git", branch: "main"
